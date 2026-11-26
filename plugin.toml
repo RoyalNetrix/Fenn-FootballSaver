@@ -1,0 +1,9 @@
+id          = "footballsaver"
+name        = "Football (data saver)"
+description = "Football scores that save data: live only for La Liga and UCL, other leagues update after full time."
+version     = "0.1.0"
+icon        = "soccer-ball"
+size        = "wide"
+mode        = "live"
+page_size   = [560, 290]
+run         = ["python", "main.py"]
